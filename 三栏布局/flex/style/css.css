@@ -1,0 +1,6 @@
+.all{display:flex;background: #eee;margin:20px;}
+.left{height:100px;width:200px;background: #fff;margin:20px;border:1px solid #999;}
+.left img{margin-left:20px;}
+.center{width:100%;background: #fff;border:1px solid #999;margin:20px 0;}
+.right{height:420px;width:120px;background: #fff;margin:20px;border:1px solid #999;}
+.right img{margin:20px;}

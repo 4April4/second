@@ -1,0 +1,52 @@
+body{padding:0; margin:0;font-family:arial;background-color:#D3D3D3;}
+p,h1,h2{font-weight: bold;}
+a{text-decoration: none;}
+h2,.de{color:#c0c0c0}
+li{font-weight: bold;}
+#content_1,#content_2,#picture,#content_3,.register
+{box-shadow:5px 5px 5px #888888; }
+    
+
+
+#header{background-color:rgb(63, 61, 61);height: 50px;}
+.header_1{float:left; margin: 8px 100px;height:35px}
+.header_2 {float:right;margin-right:100px;}
+.header_2 li{float:right;margin:5px 10px;padding-right:10px;}
+.header_2 a{color: #c0c0c0; text-decoration:none; }
+.header_2 a:hover {color:#fff;}
+
+#big{display:flex;margin:20px;}
+#content{width:1100px;margin:20px 25px;}
+.du{text-indent:2em;}
+#content_1{background-color:#fff;height:600px;padding:20px 30px;}
+#content_1 a{color:#6495ED;}
+
+
+#content_2{background-color:#fff;height:700px;padding:20px 30px;margin:20px 0;}
+#content_2 li{list-style:none;}
+
+#picture{background-color:#fff;width:100%;height:700px;font-weight: bold;}
+#picture h1{padding:20px 0 0 20px;}
+.pic{width:350px;height:180px;float:left;padding:20px 25px;}
+.pic p{width:80px;margin-left:120px;}
+.pic img{width:350px;height:180px;}
+th{background-color:rgb(63, 61, 61);color:#fff;}
+
+#content_3{background-color:#fff;height:300px;margin:20px 0;padding:20px 30px;font-weight: bold;}
+#content_3 table,tr{border:1px solid #c0c0c0;}
+.al{background-color:#c0c0c0 ;}
+.el{width:400px;}
+table{ border-collapse:collapse;}
+table th,table td{ border:1px solid #c0c0c0;}
+.footer{background-color:black;height:50px;text-align:center;color:#fff;padding-top:25px;}
+
+.register{width:380px;height:450px;background:#fff;margin:20px;font-weight: bold;}
+.reg{margin-left:38px;width:300px; height:320px;}
+.register h2{color:black;padding:10px;font-weight:bold;}
+.email,.password,.pass-again,.gender,.city,.prefer{margin:10px 0;}
+.password{margin-left:24px;}
+.gender,.city,.prefer{margin-left:84px;}
+.describe{width:55px;position:relative;margin:10px 58px;}
+.des{position:absolute;left:60px;top:-2px;}
+.submit{background-color: cornflowerblue;margin:8px 30px; border:none;width:300px;height:30px;font-weight: bold;color:#fff;}
+

@@ -1,0 +1,6 @@
+.all{padding:20px;background:#eee;overflow:hidden;}
+.left{float:left;width:200px; background:#fff;border:1px solid #999;}
+.left img{padding-left:20px;}
+.right{float:right;width:120px;height:420px;background:#fff;border:1px solid #999;}
+.right img{padding:20px 20px;}
+.center{margin:0 140px 0 220px;height:400px;background:#fff;border:1px solid #999;}
